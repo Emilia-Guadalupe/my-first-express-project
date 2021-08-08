@@ -2,7 +2,7 @@
 
 It's easy: 
 
-First, you have to install the Express Generator, with command 'npx express-generator the-name-of-your-prject'
+First, you have to install the Express Generator, with command 'npx express-generator the-name-of-your-project'
 
 Then, once you have that installed, you have to install some dependencies, with command 'npm install'. 
 
